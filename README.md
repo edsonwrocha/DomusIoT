@@ -20,24 +20,25 @@
 ---
 
 ## ✨ Features
-- Register, edit, and remove devices  
-- Turn devices on and off remotely  
-- Control 110V/220V loads (e.g., lights, relays)  
-- Real-time monitoring via MQTT  
-- Secure authentication using JWT  
-- Web interface built with NextJS and Tailwind CSS  
-- Firmware for ESP32 using ESP-IDF  
+
+- ⚙️ Register, edit, and remove devices  
+- 🔌 Turn devices on and off remotely  
+- 💡 Control 110V/220V loads (e.g., lights, relays)  
+- 📡 Real-time monitoring via MQTT  
+- 🔐 Secure authentication using JWT  
+- 🖥️ Web interface built with NextJS and Tailwind CSS  
+- 🔧 Firmware for ESP32 using ESP-IDF  
 
 ---
 
 ## 🧱 Tech Stack
-- **Backend:** Java, Spring Boot
-- **Frontend:** NextJS, Tailwind CSS
-- **Firmware:** C/C++, ESP32, ESP-IDF  
-- **MQTT Broker:** Mosquitto  
-- **Infrastructure:** Docker  
-- **Database:** MySQL  
 
+- **Backend:** ☕ Java, 🌱 Spring Boot  
+- **Frontend:** ⚛️ NextJS, 🎨 Tailwind CSS  
+- **Firmware:** 🛠️ C/C++, ESP32, ESP-IDF  
+- **MQTT Broker:** 🛰️ Mosquitto  
+- **Infrastructure:** 🐳 Docker  
+- **Database:** 🗄️ MySQL  
 
 ---
 
