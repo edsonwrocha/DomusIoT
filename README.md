@@ -20,12 +20,14 @@
 ---
 
 ## 🧱 Tech Stack
-- **Backend:** Java, Spring Boot, Vaadin  
-- **Firmware:** C/C++, ESP32, ESP-IDF  
-- **MQTT Broker:** Mosquitto  
-- **Testing:** Python (Pytest, MQTT testing)  
-- **Infrastructure:** Docker, AWS (EC2, RDS, S3), GitHub Actions  
-- **Database:** MySQL  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
 
 ---
 
