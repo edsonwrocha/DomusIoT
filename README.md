@@ -25,25 +25,30 @@
 - Control 110V/220V loads (e.g., lights, relays)  
 - Real-time monitoring via MQTT  
 - Secure authentication using JWT  
-- Web interface built with Java + Vaadin  
-- Firmware for ESP32 using PlatformIO  
+- Web interface built with NextJS and Tailwind CSS  
+- Firmware for ESP32 using ESP-IDF  
 
 ---
 
 ## 🧱 Tech Stack
+- **Backend:** Java, Spring Boot
+- **Frontend:** NextJS, Tailwind CSS
+- **Firmware:** C/C++, ESP32, ESP-IDF  
+- **MQTT Broker:** Mosquitto  
+- **Infrastructure:** Docker  
+- **Database:** MySQL  
 
 
 ---
 
 ## 🗂️ Project Structure
 ```text
-iot-device-manager/
-├── backend/ # Java backend (Spring Boot + Vaadin)
+DomusIoT/
+├── backend/ # Java backend (Spring Boot)
+├── frontend/ # NextJS project with Tailwind CSS
 ├── devices/ # ESP32 firmware code (C/C++)
-├── tests/ # Automated tests (API, MQTT, integration)
-├── infrastructure/ # Docker, Mosquitto config, AWS Terraform
+├── infrastructure/ # Docker, Mosquitto config and start up project
 ├── docs/ # Technical documentation
-├── .github/ # CI/CD with GitHub Actions
 ├── README.md
 └── LICENSE
 ```
