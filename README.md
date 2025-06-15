@@ -1,8 +1,10 @@
-# DomusIoT
+<p align="center">
+  <img src="docs/icon-DomusIoT.svg" alt="DomusIoT Logo" width="200"/>
+</p>
 
-**Description:** Remote control and scheduling platform for IoT devices using MQTT.
-
-DomusIoT is an open source platform for remote control and scheduling of IoT devices. It offers a user-friendly web interface, real-time MQTT communication, and a scalable architecture.
+<p align="center">
+  <em>DomusIoT is an open source platform for remote control and scheduling of IoT devices. It offers a user-friendly web interface, real-time MQTT communication, and a scalable architecture.</em>
+</p>
 
 ---
 
