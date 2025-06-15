@@ -66,7 +66,7 @@ Provide a general-purpose, extensible, and user-friendly platform for managing I
 
 To start the **web system** and the **MQTT broker**, please check the instructions in the [`infrastructure/README.md`](infrastructure/README.md).
 
-For details about our **MQTT protocol**, see the README located at [`devices/domus_01/README.md`](devices/domus_01/README.md).
+For details about our **MQTT protocol**, see the README located at [`devices/domus_01/MQTT_PROTOCOL.md`](devices/domus_01/MQTT_PROTOCOL.md).
 
 ---
 
