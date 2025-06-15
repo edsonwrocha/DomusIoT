@@ -47,7 +47,7 @@ DomusIoT/
 ├── backend/ # Java backend (Spring Boot)
 ├── frontend/ # NextJS project with Tailwind CSS
 ├── devices/ # ESP32 firmware code (C/C++)
-├── infrastructure/ # Docker, Mosquitto config and start up project
+├── infrastructure/ # Docker, Mosquitto config and project startup files
 ├── docs/ # Technical documentation
 ├── README.md
 └── LICENSE
